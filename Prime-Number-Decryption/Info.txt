@@ -1,0 +1,2 @@
+This is a project that finds prime numbers, concatenates them to a string and then scans every 10 characters of the string to test if they are prime. 
+The algorithm then uses the numbers found to produce a decrypted message.
